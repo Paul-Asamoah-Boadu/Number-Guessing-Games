@@ -32,8 +32,8 @@ def choose_level():
             if level == "hard":
                 return HARD_LEVEL
                 break
-        except:
-            print("")
+        except ValueError:
+            print("Sorry you didnt elect the right level, Please try again 😔")
 
 
 def game():
@@ -53,7 +53,7 @@ def game():
             try:
                 guess = int(input("Make a guess "))
                 break
-            except:
+            except ValueError:
                 print("Sorry you didnt enter a number, Please try again 😔")
         turn = check_answer(guess, answer, turn)
         if turn == 0:
