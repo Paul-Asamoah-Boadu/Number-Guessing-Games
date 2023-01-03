@@ -1,2 +1,2 @@
-# A Number Guessing Game with Python
-
+# Number Guessing Game
+A number guessing game built with Python
