@@ -12,3 +12,13 @@ The game offers two levels of difficulty: easy and hard. In the easy level, the 
 - The player enters their guess.
 - The game will indicate whether the guess is too low or too high.
 - If the player cannot guess the number within the given number of attempts, they lose the game.
+
+<h2>Features</h2>
+
+1. The game uses the random module to generate random numbers.
+2. The game uses the art module to print the logo.
+3. The game has two levels of difficulty - easy and hard.
+4. The game handles input errors gracefully.
+5. The game prints messages to indicate whether the guess is too low or too high.
+6. The game congratulates the player if they guess the number within the given number of attempts.
+7. The game has a replay function.
