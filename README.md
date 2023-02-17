@@ -22,3 +22,7 @@ The game offers two levels of difficulty: easy and hard. In the easy level, the 
 5. The game prints messages to indicate whether the guess is too low or too high.
 6. The game congratulates the player if they guess the number within the given number of attempts.
 7. The game has a replay function.
+
+<h>Contribution</h2>
+
+Contributions are welcome. If you want to contribute to this project, please fork this repository and create a pull request.
