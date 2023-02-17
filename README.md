@@ -25,4 +25,4 @@ The game offers two levels of difficulty: easy and hard. In the easy level, the 
 
 <h2>Contribution</h2>
 
-Contributions are welcome. If you want to contribute to this project, please fork this repository and create a pull request.
+Contributions are welcome! If you find a bug or have a suggestion for improvement, please create an issue or open a pull request.
