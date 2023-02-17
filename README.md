@@ -15,8 +15,8 @@ The game offers two levels of difficulty: easy and hard. In the easy level, the 
 
 <h2>Features</h2>
 
-1. The game uses the random module to generate random numbers.
-2. The game uses the art module to print the logo.
+1. The game uses the `random` module to generate random numbers.
+2. The game uses the `art` module to print the logo.
 3. The game has two levels of difficulty - easy and hard.
 4. The game handles input errors gracefully.
 5. The game prints messages to indicate whether the guess is too low or too high.
